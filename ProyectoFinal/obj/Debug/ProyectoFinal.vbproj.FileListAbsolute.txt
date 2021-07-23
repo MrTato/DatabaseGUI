@@ -1,0 +1,68 @@
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\bin\Debug\ProyectoFinal.xml
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\obj\Debug\ProyectoFinal.vbprojAssemblyReference.cache
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Resources.resources
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\obj\Debug\ProyectoFinal.vbproj.GenerateResource.cache
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\obj\Debug\ProyectoFinal.vbproj.CoreCompileInputs.cache
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\obj\Debug\ProyectoFinal.xml
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Login.resources
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\obj\Debug\ProyectoFinal.MDI.resources
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Cliente.resources
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Test.resources
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Producto.resources
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Factura.resources
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Detalle_Factura.resources
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Detalle_Factura_Single.resources
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Respaldo.resources
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Usuario.resources
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\obj\Debug\ProyectoFinal.CambioClave.resources
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\obj\Debug\ProyectoFinal.AcercaDe.resources
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Consulta.resources
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\obj\Debug\ProyectoFinal.ConsultaReporte.resources
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\obj\Debug\ProyectoFinal.vbproj.CopyComplete
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Transacciones_Dia_Reporte.resources
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Transacciones_Mes_Reporte.resources
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Transacciones_Anual_Reporte.resources
+C:\Users\BayardoJLS\Documents\TATO\Administracion de Bases de Datos\Tercer Corte Evaluativo\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Transacciones_Especifico_Reporte.resources
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\bin\Debug\ProyectoFinal.xml
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\obj\Debug\ProyectoFinal.vbprojAssemblyReference.cache
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\obj\Debug\ProyectoFinal.AcercaDe.resources
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\obj\Debug\ProyectoFinal.CambioClave.resources
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Cliente.resources
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Consulta.resources
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Detalle_Factura.resources
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Detalle_Factura_Single.resources
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Factura.resources
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Login.resources
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\obj\Debug\ProyectoFinal.MDI.resources
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Resources.resources
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Producto.resources
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\obj\Debug\ProyectoFinal.ConsultaReporte.resources
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Transacciones_Anual_Reporte.resources
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Transacciones_Dia_Reporte.resources
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Transacciones_Especifico_Reporte.resources
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Transacciones_Mes_Reporte.resources
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Respaldo.resources
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Test.resources
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\obj\Debug\ProyectoFinal.Usuario.resources
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\obj\Debug\ProyectoFinal.vbproj.GenerateResource.cache
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\obj\Debug\ProyectoFinal.vbproj.CoreCompileInputs.cache
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\obj\Debug\ProyectoFinal.vbproj.CopyComplete
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\obj\Debug\ProyectoFinal.xml
+C:\Users\BayardoJLS\source\test repos\Login\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
